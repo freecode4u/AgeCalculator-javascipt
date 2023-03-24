@@ -12,5 +12,5 @@ It's a JavaScript project to calculate age logically calculate difference betwee
 <br>
 <h3>when it got bithday</h3>
 <img src="img/AgeCal.png" />
-# AgeCalculator-javascipt
-# AgeCalculator-javascipt
+#AgeCalculator-javascipt
+#AgeCalculator-javascipt
